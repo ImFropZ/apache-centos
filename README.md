@@ -12,3 +12,5 @@
 - `openssl x509 -req -days 365 -in ca.crt -signkey ca.key -out ca.crt` - Generate a self-signed certificate for the Certificate Authority
 - `cp ca.crt /etc/pki/tls/certs/` - Copy the Certificate Authority certificate to the system certificate directory
 - `cp ca.key /etc/pki/tls/private/` - Copy the Certificate Authority private key to the system certificate directory
+
+- Video link: [here](https://youtu.be/xelH5AvdgY8)
